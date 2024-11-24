@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732387934249,300,-1,200,OK,TestLab4 1-2,text,true,,6447,291,3,3,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,299,0,197
+1732387934122,428,-1,200,OK,TestLab4 1-1,text,true,,6446,291,3,3,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,427,0,325
+1732387934449,147,-1,200,OK,TestLab4 1-3,text,true,,6451,291,3,3,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,147,0,75
+1732387934552,72,-2,200,OK,TestLab4 1-1,text,true,,2101,449,3,3,https://amath.lp.edu.ua/,71,0,60
+1732387934552,72,-2,200,OK,TestLab4 1-2,text,true,,2101,449,3,3,https://amath.lp.edu.ua/,71,0,60
+1732387934624,21,-14,200,OK,TestLab4 1-1,text,true,,1214,399,4,4,https://amath.lp.edu.ua/api/galleries,21,0,0
+1732387934624,21,-14,200,OK,TestLab4 1-2,text,true,,1214,399,4,4,https://amath.lp.edu.ua/api/galleries,21,0,0
+1732387934600,46,-2,200,OK,TestLab4 1-3,text,true,,2101,449,4,4,https://amath.lp.edu.ua/,46,0,35
+1732387934647,66,-14,200,OK,TestLab4 1-3,text,true,,1214,399,4,4,https://amath.lp.edu.ua/api/galleries,66,0,0
+1732387934646,84,-13,200,OK,TestLab4 1-1,text,true,,61229,395,4,4,https://amath.lp.edu.ua/api/posts,47,0,0
+1732387934646,103,-13,200,OK,TestLab4 1-2,text,true,,61229,395,4,4,https://amath.lp.edu.ua/api/posts,86,0,0
+1732387934715,63,-13,200,OK,TestLab4 1-3,text,true,,61229,395,4,4,https://amath.lp.edu.ua/api/posts,46,0,0
+1732387934642,180,-1,200,OK,TestLab4 1-4,text,true,,6449,291,4,4,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,180,0,100
+1732387934823,39,-2,200,OK,TestLab4 1-4,text,true,,2101,449,5,5,https://amath.lp.edu.ua/,39,0,28
+1732387934862,15,-14,200,OK,TestLab4 1-4,text,true,,1214,399,5,5,https://amath.lp.edu.ua/api/galleries,15,0,0
+1732387934877,62,-13,200,OK,TestLab4 1-4,text,true,,61229,395,5,5,https://amath.lp.edu.ua/api/posts,39,0,0
+1732387934750,222,-10,200,OK,TestLab4 1-2,text,true,,43688,502,5,5,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,222,0,78
+1732387934842,138,-1,200,OK,TestLab4 1-5,text,true,,6447,291,5,5,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,138,0,74
+1732387934733,262,-10,200,OK,TestLab4 1-1,text,true,,44235,502,5,5,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,262,0,96
+1732387934779,220,-10,200,OK,TestLab4 1-3,text,true,,43371,502,5,5,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,220,0,77
+1732387934981,44,-2,200,OK,TestLab4 1-5,text,true,,2101,449,5,5,https://amath.lp.edu.ua/,44,0,29
+1732387935026,14,-14,200,OK,TestLab4 1-5,text,true,,1214,399,5,5,https://amath.lp.edu.ua/api/galleries,14,0,0
+1732387935040,53,-13,200,OK,TestLab4 1-5,text,true,,61229,395,6,6,https://amath.lp.edu.ua/api/posts,35,0,0
+1732387934976,166,-25,200,OK,TestLab4 1-2,text,true,,1819,827,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,121,0,73
+1732387934976,121,-25-0,302,Found,TestLab4 1-2,text,true,,747,409,6,6,https://googleads.g.doubleclick.net/pagead/id,121,0,73
+1732387935098,44,-25-1,200,OK,TestLab4 1-2,text,true,,1072,418,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,44,0,0
+1732387935000,166,-25,200,OK,TestLab4 1-3,text,true,,1740,827,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,119,0,76
+1732387935000,119,-25-0,302,Found,TestLab4 1-3,text,true,,747,409,6,6,https://googleads.g.doubleclick.net/pagead/id,119,0,76
+1732387935119,47,-25-1,200,OK,TestLab4 1-3,text,true,,993,418,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,46,0,0
+1732387934997,171,-25,200,OK,TestLab4 1-1,text,true,,1734,827,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,122,0,76
+1732387934997,122,-25-0,302,Found,TestLab4 1-1,text,true,,747,409,6,6,https://googleads.g.doubleclick.net/pagead/id,122,0,76
+1732387935119,49,-25-1,200,OK,TestLab4 1-1,text,true,,987,418,6,6,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,48,0,0
+1732387934940,229,-10,200,OK,TestLab4 1-4,text,true,,43570,502,6,6,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,229,0,83
+1732387935144,27,-26,204,No Content,TestLab4 1-2,,true,,184,603,6,6,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935043,139,-1,200,OK,TestLab4 1-6,text,true,,6446,291,6,6,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,139,0,70
+1732387935167,24,-26,204,No Content,TestLab4 1-3,,true,,184,603,6,6,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935169,26,-26,204,No Content,TestLab4 1-1,,true,,184,603,6,6,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935183,39,-2,200,OK,TestLab4 1-6,text,true,,2101,449,6,6,https://amath.lp.edu.ua/,39,0,26
+1732387935223,17,-14,200,OK,TestLab4 1-6,text,true,,1214,399,7,7,https://amath.lp.edu.ua/api/galleries,17,0,0
+1732387935241,58,-13,200,OK,TestLab4 1-6,text,true,,61229,395,7,7,https://amath.lp.edu.ua/api/posts,35,0,0
+1732387935172,130,-27,200,OK,TestLab4 1-2,text,true,,1268,957,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,130,0,81
+1732387935093,226,-10,200,OK,TestLab4 1-5,text,true,,43874,502,7,7,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,226,0,72
+1732387935195,126,-27,200,OK,TestLab4 1-1,text,true,,1223,957,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,126,0,78
+1732387935192,134,-27,200,OK,TestLab4 1-3,text,true,,1201,957,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,134,0,83
+1732387935171,165,-25,200,OK,TestLab4 1-4,text,true,,1772,827,7,7,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,121,0,71
+1732387935171,121,-25-0,302,Found,TestLab4 1-4,text,true,,747,409,7,7,https://googleads.g.doubleclick.net/pagead/id,121,0,71
+1732387935292,44,-25-1,200,OK,TestLab4 1-4,text,true,,1025,418,7,7,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,44,0,0
+1732387935337,25,-26,204,No Content,TestLab4 1-4,,true,,184,603,7,7,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935240,166,-1,200,OK,TestLab4 1-7,text,true,,15995,291,7,7,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,166,0,73
+1732387935407,63,-2,200,OK,TestLab4 1-7,text,true,,2101,449,8,8,https://amath.lp.edu.ua/,63,0,31
+1732387935304,202,-29,200,OK,TestLab4 1-2,bin,true,,94835,472,8,8,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,96,0,71
+1732387935470,41,-14,200,OK,TestLab4 1-7,text,true,,1214,399,8,8,https://amath.lp.edu.ua/api/galleries,41,0,0
+1732387935321,199,-25,200,OK,TestLab4 1-5,text,true,,1832,827,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,125,0,69
+1732387935321,125,-25-0,302,Found,TestLab4 1-5,text,true,,747,409,8,8,https://googleads.g.doubleclick.net/pagead/id,125,0,69
+1732387935446,74,-25-1,200,OK,TestLab4 1-5,text,true,,1085,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,67,0,0
+1732387935327,215,-29,200,OK,TestLab4 1-3,bin,true,,94835,472,8,8,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,98,0,70
+1732387935363,185,-27,200,OK,TestLab4 1-4,text,true,,1254,957,8,8,https://play.google.com/log?format=json&hasfast=true&authuser=0,184,0,90
+1732387935322,249,-29,200,OK,TestLab4 1-1,bin,true,,94835,472,8,8,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,120,0,72
+1732387935507,72,-31,200,OK,TestLab4 1-2,text,true,,948,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,72,0,0
+1732387935521,58,-26,204,No Content,TestLab4 1-5,,true,,184,603,8,8,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935301,283,-10,200,OK,TestLab4 1-6,text,true,,43916,502,8,8,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,283,0,73
+1732387935543,46,-31,200,OK,TestLab4 1-3,text,true,,1131,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,46,0,0
+1732387935571,50,-31,200,OK,TestLab4 1-1,text,true,,1143,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,50,0,0
+1732387935512,119,-13,200,OK,TestLab4 1-7,text,true,,61229,395,8,8,https://amath.lp.edu.ua/api/posts,75,0,0
+1732387935439,200,-1,200,OK,TestLab4 1-8,text,true,,15995,291,8,8,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,200,0,117
+1732387935639,44,-2,200,OK,TestLab4 1-8,text,true,,2101,449,9,9,https://amath.lp.edu.ua/,44,0,32
+1732387935683,14,-14,200,OK,TestLab4 1-8,text,true,,1214,399,9,9,https://amath.lp.edu.ua/api/galleries,14,0,0
+1732387935580,122,-27,200,OK,TestLab4 1-5,text,true,,1193,957,9,9,https://play.google.com/log?format=json&hasfast=true&authuser=0,122,0,72
+1732387935549,205,-29,200,OK,TestLab4 1-4,bin,true,,94835,472,9,9,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,114,0,86
+1732387935585,187,-25,200,OK,TestLab4 1-6,text,true,,1845,827,9,9,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,118,0,73
+1732387935585,118,-25-0,302,Found,TestLab4 1-6,text,true,,747,409,9,9,https://googleads.g.doubleclick.net/pagead/id,118,0,73
+1732387935703,69,-25-1,200,OK,TestLab4 1-6,text,true,,1098,418,9,9,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,64,0,0
+1732387935590,205,-30,200,OK,TestLab4 1-3,text,true,,44243,614,9,9,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,127,0,71
+1732387935580,220,-30,200,OK,TestLab4 1-2,text,true,,43940,614,9,9,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,141,0,74
+1732387935697,117,-13,200,OK,TestLab4 1-8,text,true,,61229,395,9,9,https://amath.lp.edu.ua/api/posts,76,0,0
+1732387935754,65,-31,200,OK,TestLab4 1-4,text,true,,1018,418,9,9,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,65,0,0
+1732387935772,48,-26,204,No Content,TestLab4 1-6,,true,,184,603,9,9,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387935622,211,-30,200,OK,TestLab4 1-1,text,true,,44178,614,9,9,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,159,0,69
+1732387935639,201,-1,200,OK,TestLab4 1-9,text,true,,15998,291,10,10,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,200,0,78
+1732387935800,51,-33,200,OK,TestLab4 1-2,text,true,,902,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,51,0,0
+1732387935795,60,-33,200,OK,TestLab4 1-3,text,true,,853,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,60,0,0
+1732387935632,252,-10,200,OK,TestLab4 1-7,text,true,,43308,502,10,10,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,247,0,79
+1732387935834,51,-33,200,OK,TestLab4 1-1,text,true,,721,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,50,0,0
+1732387935840,52,-2,200,OK,TestLab4 1-9,text,true,,2101,449,10,10,https://amath.lp.edu.ua/,52,0,34
+1732387935893,20,-14,200,OK,TestLab4 1-9,text,true,,1214,399,10,10,https://amath.lp.edu.ua/api/galleries,20,0,0
+1732387935703,225,-29,200,OK,TestLab4 1-5,bin,true,,94835,472,10,10,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,142,0,115
+1732387935855,79,-32,200,OK,TestLab4 1-3,text,true,,1040,1637,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,79,0,0
+1732387935852,83,-32,200,OK,TestLab4 1-2,text,true,,1066,1637,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,83,0,0
+1732387935821,132,-27,200,OK,TestLab4 1-6,text,true,,1193,957,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,132,0,82
+1732387935885,92,-32,200,OK,TestLab4 1-1,text,true,,1267,1637,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,92,0,0
+1732387935913,72,-13,200,OK,TestLab4 1-9,text,true,,61229,395,10,10,https://amath.lp.edu.ua/api/posts,47,0,0
+1732387935929,56,-31,200,OK,TestLab4 1-5,text,true,,985,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,56,0,0
+1732387935935,62,-34,200,OK,TestLab4 1-3,text,true,,788,1423,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,62,0,0
+1732387935935,64,-34,200,OK,TestLab4 1-2,text,true,,729,1423,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,64,0,0
+1732387935820,189,-30,200,OK,TestLab4 1-4,text,true,,44641,614,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,134,0,78
+1732387935840,176,-1,200,OK,TestLab4 1-10,text,true,,15998,291,10,10,https://www.google.com/complete/search?client=firefox&channel=ftr&q=,176,0,77
+1732387935997,20,-37,200,OK,TestLab4 1-3,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,20,0,0
+1732387936000,19,-37,200,OK,TestLab4 1-2,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,19,0,0
+1732387935978,47,-34,200,OK,TestLab4 1-1,text,true,,754,1423,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,47,0,0
+1732387935814,249,-10,200,OK,TestLab4 1-8,text,true,,43735,502,10,10,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,249,0,77
+1732387936026,43,-37,200,OK,TestLab4 1-1,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,43,0,0
+1732387936017,54,-2,200,OK,TestLab4 1-10,text,true,,2101,449,10,10,https://amath.lp.edu.ua/,54,0,28
+1732387936009,71,-33,200,OK,TestLab4 1-4,text,true,,718,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,64,0,0
+1732387935885,208,-25,200,OK,TestLab4 1-7,text,true,,1701,827,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,135,0,88
+1732387935885,135,-25-0,302,Found,TestLab4 1-7,text,true,,747,409,10,10,https://googleads.g.doubleclick.net/pagead/id,135,0,88
+1732387936020,73,-25-1,200,OK,TestLab4 1-7,text,true,,954,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,72,0,0
+1732387936071,53,-14,200,OK,TestLab4 1-10,text,true,,1214,399,10,10,https://amath.lp.edu.ua/api/galleries,53,0,0
+1732387936093,59,-26,204,No Content,TestLab4 1-7,,true,,184,603,10,10,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387936080,135,-32,200,OK,TestLab4 1-4,text,true,,1041,1638,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,135,0,0
+1732387935986,326,-30,200,OK,TestLab4 1-5,text,true,,44176,614,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,198,0,88
+1732387936216,133,-34,200,OK,TestLab4 1-4,text,true,,815,1424,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,133,0,0
+1732387935954,420,-29,200,OK,TestLab4 1-6,bin,true,,94835,472,10,10,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,142,0,88
+1732387935986,442,-10,200,OK,TestLab4 1-9,text,true,,43881,502,10,10,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,442,0,95
+1732387936313,128,-33,200,OK,TestLab4 1-5,text,true,,774,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,127,0,0
+1732387936349,99,-37,200,OK,TestLab4 1-4,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,98,0,0
+1732387936064,407,-25,200,OK,TestLab4 1-8,text,true,,1766,827,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,307,0,172
+1732387936064,307,-25-0,302,Found,TestLab4 1-8,text,true,,747,409,10,10,https://googleads.g.doubleclick.net/pagead/id,307,0,172
+1732387936372,99,-25-1,200,OK,TestLab4 1-8,text,true,,1019,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,98,0,0
+1732387936375,100,-31,200,OK,TestLab4 1-6,text,true,,1147,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,100,0,0
+1732387936125,357,-13,200,OK,TestLab4 1-10,text,true,,61229,395,10,10,https://amath.lp.edu.ua/api/posts,200,0,0
+1732387936154,335,-27,200,OK,TestLab4 1-7,text,true,,1165,957,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,330,0,228
+1732387936472,82,-26,204,No Content,TestLab4 1-8,,true,,184,603,10,10,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387936443,126,-32,200,OK,TestLab4 1-5,text,true,,1058,1637,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,125,0,0
+1732387936570,111,-34,200,OK,TestLab4 1-5,text,true,,825,1423,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,111,0,0
+1732387936685,80,-37,200,OK,TestLab4 1-5,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,80,0,0
+1732387936435,402,-25,200,OK,TestLab4 1-9,text,true,,1684,827,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,285,0,175
+1732387936435,285,-25-0,302,Found,TestLab4 1-9,text,true,,747,409,10,10,https://googleads.g.doubleclick.net/pagead/id,285,0,175
+1732387936721,116,-25-1,200,OK,TestLab4 1-9,text,true,,937,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,116,0,0
+1732387936837,115,-26,204,No Content,TestLab4 1-9,,true,,184,603,10,10,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387936483,535,-10,200,OK,TestLab4 1-10,text,true,,44156,502,10,10,https://www.youtube.com/embed/vllmQnjTXIw?si=t2nCvWqhtw-hJFTo,535,0,190
+1732387936476,580,-30,200,OK,TestLab4 1-6,text,true,,44234,614,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,310,0,182
+1732387936490,624,-29,200,OK,TestLab4 1-7,bin,true,,94835,472,10,10,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,272,0,183
+1732387937057,102,-33,200,OK,TestLab4 1-6,text,true,,817,1537,10,10,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,100,0,0
+1732387937114,99,-31,200,OK,TestLab4 1-7,text,true,,1030,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,99,0,0
+1732387936554,694,-27,200,OK,TestLab4 1-8,text,true,,1086,957,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,327,0,193
+1732387936953,321,-27,200,OK,TestLab4 1-9,text,true,,1287,957,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,321,0,205
+1732387937160,134,-32,200,OK,TestLab4 1-6,text,true,,1138,1638,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,134,0,0
+1732387936019,1357,-42,200,OK,TestLab4 1-2,text,true,,928099,431,10,10,https://amath.lp.edu.ua/api/download/1701722445404-blob,66,0,0
+1732387936018,1361,-42,200,OK,TestLab4 1-3,text,true,,928099,431,10,10,https://amath.lp.edu.ua/api/download/1701722445404-blob,31,0,0
+1732387937295,92,-34,200,OK,TestLab4 1-6,text,true,,739,1424,10,10,https://play.google.com/log?format=json&hasfast=true&authuser=0,91,0,0
+1732387937019,410,-25,200,OK,TestLab4 1-10,text,true,,1865,827,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,341,0,236
+1732387937019,341,-25-0,302,Found,TestLab4 1-10,text,true,,747,409,10,10,https://googleads.g.doubleclick.net/pagead/id,341,0,236
+1732387937362,67,-25-1,200,OK,TestLab4 1-10,text,true,,1118,418,10,10,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,65,0,0
+1732387937392,39,-37,200,OK,TestLab4 1-6,text,true,,2076,427,10,10,https://amath.lp.edu.ua/api/teachers,39,0,0
+1732387937437,60,-26,204,No Content,TestLab4 1-10,,true,,184,603,10,10,https://www.youtube.com/generate_204?JUCe6A,0,0,0
+1732387937376,205,-36,200,OK,TestLab4 1-2,text,true,,2256,975,10,10,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,202,0,0
+1732387934249,3314,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-2,,true,,1192801,12357,10,10,null,1744,18,634
+1732387937214,401,-30,200,OK,TestLab4 1-7,text,true,,43930,614,9,9,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,255,0,171
+1732387937249,414,-29,200,OK,TestLab4 1-8,bin,true,,94835,472,9,9,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,199,0,153
+1732387937615,111,-33,200,OK,TestLab4 1-7,text,true,,837,1537,9,9,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,111,0,0
+1732387937381,356,-36,200,OK,TestLab4 1-3,text,true,,2100,975,9,9,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,355,0,0
+1732387934448,3270,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-3,,true,,1192656,12357,9,9,null,1656,19,487
+1732387937276,472,-29,200,OK,TestLab4 1-9,bin,true,,94835,472,8,8,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,209,0,147
+1732387937664,104,-31,200,OK,TestLab4 1-8,text,true,,1041,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,102,0,0
+1732387937499,306,-27,200,OK,TestLab4 1-10,text,true,,1035,957,8,8,https://play.google.com/log?format=json&hasfast=true&authuser=0,305,0,196
+1732387937749,100,-31,200,OK,TestLab4 1-9,text,true,,960,418,8,8,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,100,0,0
+1732387937726,134,-32,200,OK,TestLab4 1-7,text,true,,1151,1638,8,8,https://play.google.com/log?format=json&hasfast=true&authuser=0,134,0,0
+1732387937861,98,-34,200,OK,TestLab4 1-7,text,true,,777,1424,8,8,https://play.google.com/log?format=json&hasfast=true&authuser=0,98,0,0
+1732387937959,70,-37,200,OK,TestLab4 1-7,text,true,,2076,427,8,8,https://amath.lp.edu.ua/api/teachers,70,0,0
+1732387936069,2033,-42,200,OK,TestLab4 1-1,text,true,,928099,431,8,8,https://amath.lp.edu.ua/api/download/1701722445404-blob,100,0,0
+1732387937768,436,-30,200,OK,TestLab4 1-8,text,true,,44199,614,8,8,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,291,0,182
+1732387938103,241,-36,200,OK,TestLab4 1-1,text,true,,2068,975,8,8,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,235,0,0
+1732387934057,4207,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-1,,true,,1193507,12357,8,8,null,1972,81,776
+1732387938205,147,-33,200,OK,TestLab4 1-8,text,true,,937,1537,7,7,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,139,0,0
+1732387938352,133,-32,200,OK,TestLab4 1-8,text,true,,1045,1637,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,130,0,0
+1732387937807,697,-29,200,OK,TestLab4 1-10,bin,true,,94835,472,7,7,https://i.ytimg.com/vi_webp/vllmQnjTXIw/sddefault.webp,267,0,176
+1732387938486,73,-34,200,OK,TestLab4 1-8,text,true,,805,1423,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,72,0,0
+1732387937431,1140,-42,200,OK,TestLab4 1-6,text,true,,928099,431,7,7,https://amath.lp.edu.ua/api/download/1701722445404-blob,91,0,0
+1732387938510,64,-31,200,OK,TestLab4 1-10,text,true,,1080,418,7,7,https://googleads.g.doubleclick.net/pagead/id?slf_rd=1,62,0,0
+1732387938559,29,-37,200,OK,TestLab4 1-8,text,true,,2076,427,7,7,https://amath.lp.edu.ua/api/teachers,29,0,0
+1732387937850,751,-30,200,OK,TestLab4 1-9,text,true,,44304,614,7,7,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,273,0,156
+1732387938601,70,-33,200,OK,TestLab4 1-9,text,true,,701,1537,7,7,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,70,0,0
+1732387938671,117,-32,200,OK,TestLab4 1-9,text,true,,1048,1638,7,7,https://play.google.com/log?format=json&hasfast=true&authuser=0,117,0,0
+1732387938571,295,-36,200,OK,TestLab4 1-6,text,true,,2296,976,7,7,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,295,0,0
+1732387935042,3805,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-6,,true,,1193509,12360,7,7,null,2065,20,594
+1732387938788,94,-34,200,OK,TestLab4 1-9,text,true,,812,1424,6,6,https://play.google.com/log?format=json&hasfast=true&authuser=0,93,0,0
+1732387938576,337,-30,200,OK,TestLab4 1-10,text,true,,44271,614,6,6,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create,234,0,136
+1732387938883,68,-37,200,OK,TestLab4 1-9,text,true,,2076,427,6,6,https://amath.lp.edu.ua/api/teachers,68,0,0
+1732387938913,96,-33,200,OK,TestLab4 1-10,text,true,,847,1537,6,6,https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT,95,0,0
+1732387939011,116,-32,200,OK,TestLab4 1-10,text,true,,1243,1637,6,6,https://play.google.com/log?format=json&hasfast=true&authuser=0,116,0,0
+1732387939129,101,-34,200,OK,TestLab4 1-10,text,true,,647,1423,6,6,https://play.google.com/log?format=json&hasfast=true&authuser=0,98,0,0
+1732387939235,72,-37,200,OK,TestLab4 1-10,text,true,,2076,427,6,6,https://amath.lp.edu.ua/api/teachers,72,0,0
+1732387938589,817,-42,200,OK,TestLab4 1-8,text,true,,928099,431,6,6,https://amath.lp.edu.ua/api/download/1701722445404-blob,53,0,0
+1732387936448,3028,-42,200,OK,TestLab4 1-4,text,true,,928099,431,6,6,https://amath.lp.edu.ua/api/download/1701722445404-blob,135,0,0
+1732387936766,2788,-42,200,OK,TestLab4 1-5,text,true,,928099,431,6,6,https://amath.lp.edu.ua/api/download/1701722445404-blob,295,0,0
+1732387939408,173,-36,200,OK,TestLab4 1-8,text,true,,2172,975,6,6,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,173,0,0
+1732387935438,4133,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-8,,true,,1202519,12357,6,6,null,2405,10,926
+1732387939478,310,-36,200,OK,TestLab4 1-4,text,true,,2290,976,5,5,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,309,0,0
+1732387934641,5135,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-4,,true,,1193306,12360,5,5,null,1994,11,536
+1732387939556,320,-36,200,OK,TestLab4 1-5,text,true,,2102,975,4,4,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,315,0,0
+1732387934842,5014,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-5,,true,,1193004,12357,4,4,null,2153,21,519
+1732387938030,2178,-42,200,OK,TestLab4 1-7,text,true,,928099,431,3,3,https://amath.lp.edu.ua/api/download/1701722445404-blob,155,0,0
+1732387939308,1043,-42,200,OK,TestLab4 1-10,text,true,,928099,431,3,3,https://amath.lp.edu.ua/api/download/1701722445404-blob,134,0,0
+1732387940209,155,-36,200,OK,TestLab4 1-7,text,true,,2202,976,3,3,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,154,0,0
+1732387935239,5113,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-7,,true,,1201834,12360,3,3,null,2405,11,853
+1732387938953,1458,-42,200,OK,TestLab4 1-9,text,true,,928099,431,2,2,https://amath.lp.edu.ua/api/download/1701722445404-blob,118,0,0
+1732387940352,265,-36,200,OK,TestLab4 1-10,text,true,,2220,975,2,2,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,264,0,0
+1732387935840,4742,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-10,,true,,1203100,12357,2,2,null,3006,34,1039
+1732387940413,408,-36,200,OK,TestLab4 1-9,text,true,,2275,976,1,1,https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d2573.3628036394703%212d24.0118619%213d49.8356402%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x473add790d2c8979%3A0x816b961499e08d49%212z0J3QoyAi0JvRjNCy0ZbQstGB0YzQutCwINC_0L7Qu9GW0YLQtdGF0L3RltC60LAi%215e0%213m2%211suk%212sus%214v1687286764587%215m2%211suk%212sus,408,0,0
+1732387935639,5163,,200,"Number of samples in transaction : 17, number of failing samples : 0",TestLab4 1-9,,true,,1202688,12360,1,1,null,2823,18,890
